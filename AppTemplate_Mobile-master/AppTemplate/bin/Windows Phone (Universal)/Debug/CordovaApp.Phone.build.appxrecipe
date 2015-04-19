@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MAC-PC</Machine>
+    <WindowsUser>bttalic</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>debug|anycpu</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e6631cf0-cf61-11e4-91bf-55a511866d9b</PackageIdentityName>
+    <IntermediateOutputPath>C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\build\phone\bld\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\build\phone\debug\anycpu\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\images\SplashScreenPhone.scale-240.png">
+      <PackagePath>images\SplashScreenPhone.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\jquery_mobile\jquery.mobile-1.4.5.min.js">
+      <PackagePath>www\frameworks\jquery_mobile\jquery.mobile-1.4.5.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\jquery_mobile\winstore-jscompact.js">
+      <PackagePath>www\frameworks\jquery_mobile\winstore-jscompact.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\js\materialize.js">
+      <PackagePath>www\frameworks\materialize\js\materialize.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\js\materialize.min.js">
+      <PackagePath>www\frameworks\materialize\js\materialize.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\scripts\app.js">
+      <PackagePath>www\scripts\app.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\scripts\jquery-1.11.2.min.js">
+      <PackagePath>www\scripts\jquery-1.11.2.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\jquery_mobile\jquery.mobile-1.4.5.min.css">
+      <PackagePath>www\frameworks\jquery_mobile\jquery.mobile-1.4.5.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\css\materialize.css">
+      <PackagePath>www\frameworks\materialize\css\materialize.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\css\materialize.min.css">
+      <PackagePath>www\frameworks\materialize\css\materialize.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\jquery_mobile\jquery.mobile-1.4.5.min.map">
+      <PackagePath>www\frameworks\jquery_mobile\jquery.mobile-1.4.5.min.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\.DS_Store">
+      <PackagePath>www\frameworks\materialize\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\css\.DS_Store">
+      <PackagePath>www\frameworks\materialize\css\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\font\material-design-icons\LICENSE.txt">
+      <PackagePath>www\frameworks\materialize\font\material-design-icons\LICENSE.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\font\material-design-icons\Material-Design-Icons.eot">
+      <PackagePath>www\frameworks\materialize\font\material-design-icons\Material-Design-Icons.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\font\material-design-icons\Material-Design-Icons.svg">
+      <PackagePath>www\frameworks\materialize\font\material-design-icons\Material-Design-Icons.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\font\material-design-icons\Material-Design-Icons.ttf">
+      <PackagePath>www\frameworks\materialize\font\material-design-icons\Material-Design-Icons.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\font\roboto\Roboto-Bold.ttf">
+      <PackagePath>www\frameworks\materialize\font\roboto\Roboto-Bold.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\font\roboto\Roboto-Light.ttf">
+      <PackagePath>www\frameworks\materialize\font\roboto\Roboto-Light.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\font\roboto\Roboto-Medium.ttf">
+      <PackagePath>www\frameworks\materialize\font\roboto\Roboto-Medium.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\font\roboto\Roboto-Regular.ttf">
+      <PackagePath>www\frameworks\materialize\font\roboto\Roboto-Regular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\font\roboto\Roboto-Thin.ttf">
+      <PackagePath>www\frameworks\materialize\font\roboto\Roboto-Thin.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\font\material-design-icons\Material-Design-Icons.woff">
+      <PackagePath>www\frameworks\materialize\font\material-design-icons\Material-Design-Icons.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\LICENSE">
+      <PackagePath>www\frameworks\materialize\LICENSE</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\frameworks\materialize\README.md">
+      <PackagePath>www\frameworks\materialize\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\www\Project_Readme.html">
+      <PackagePath>www\Project_Readme.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CordovaApps\AppTemplate\AppTemplate\bld\Debug\platforms\windows\build\phone\debug\anycpu\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
